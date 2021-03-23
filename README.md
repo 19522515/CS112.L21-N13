@@ -12,7 +12,7 @@
 - Lớp học: CS112.L21
 - Năm học: 2020-2021
 - Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
-# THÀNH VIÊN NHÓM
+# THÀNH VIÊN NHÓM 13
 | STT |   MSSV   |   Vai Trò   |      Họ và Tên      |          Email         |
 |:---:|:--------:|:-----------:|:-------------------:|:----------------------:|
 | 1   | 19522515 | Nhóm trưởng | Lê Dương Khánh Việt | 19522515@gm.uit.edu.vn |
