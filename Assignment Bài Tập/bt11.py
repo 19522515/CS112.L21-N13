@@ -15,4 +15,4 @@ def H_Index(n, x):
 print(H_Index(n, x))
 https://i0.wp.com/s1.uphinh.org/2021/04/02/huanhoahong-1_ugww.jpg
     https://uphinh.org/image/ybcUYu
-![Image of Yaktocat](https://i0.wp.com/s1.uphinh.org/2021/04/02/huanhoahong-1_ugww.jpg)
+![image](https://i0.wp.com/s1.uphinh.org/2021/04/02/huanhoahong-1_ugww.jpg)
