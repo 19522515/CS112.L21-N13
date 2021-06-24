@@ -17,9 +17,8 @@
 * [Bảng mô tả các bài thực hành](#Bảng-mô-tả-các-bài-thực-hành)
 
 ## BẢNG CÔNG VIỆC
-
 ## BẢNG PHÂN CÔNG CÔNG VIỆC
-
+[Bảng phân công : ](https://github.com/19522515/CS112.L21-N13/blob/main/Thu%E1%BA%ADt%20To%C3%A1n%20Dynamic%20Programming/PhanCongNhiemVu/PhanCongNhiemVu.xlsx)
 ##  BIÊN BẢN THẢO LUẬN DO NHÓM CHỦ TRÌ
 ### 1. SLIDE THUYẾT TRÌNH
 | STT | Thông tin file | Đường dẫn |
