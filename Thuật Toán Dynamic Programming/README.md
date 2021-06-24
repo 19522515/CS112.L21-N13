@@ -81,7 +81,6 @@
 | 16 | 8 |
 | 17 | 9 |
 | 18 | 0 |
-
 ## BẢNG MÔ TẢ CÁC BÀI THỰC HÀNH
 
 | Tuần  | Tên bài | Đáp án |
@@ -90,7 +89,7 @@
 ||Seaweed - Tảo biển|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/BaiTap_week1.ipynb)|
 |2|H - index|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/H_index.ipynb)|
 ||MaxStr - Khóa số|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/MAXSTR_KHOASO.ipynb)|
-|3|Renewed - Đổi mới||
-||NewNum - Số nguyên mới||
+|3|Renewed - Đổi mới|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/doimoi_snmoi.ipynb)|
+||NewNum - Số nguyên mới|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/doimoi_snmoi.ipynb)|
 |4|Wall - Sửa hàng rào||
 ||Fraction - Phân số|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/Week7/phanso.ipynb)|
